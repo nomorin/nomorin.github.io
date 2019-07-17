@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nomorin.github.io/blog/</loc>
+    <lastmod>2019-07-18T00:14:51+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nomorin.github.io/</loc>
+    <lastmod>2019-07-18T00:14:51+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nomorin.github.io/blog/first/</loc>
+    <lastmod>2019-07-18T00:14:51+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nomorin.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nomorin.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nomorin.github.io/</loc>
     <priority>0</priority>
   </url>
   
