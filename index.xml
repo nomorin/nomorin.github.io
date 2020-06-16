@@ -6,10 +6,25 @@
     <description>Recent content on this is nomori</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Thu, 18 Jul 2019 00:14:51 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 20:20:33 +0900</lastBuildDate>
     
 	<atom:link href="https://nomorin.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mac_os_update</title>
+      <link>https://nomorin.github.io/blog/mac_os_update/</link>
+      <pubDate>Tue, 16 Jun 2020 20:20:33 +0900</pubDate>
+      
+      <guid>https://nomorin.github.io/blog/mac_os_update/</guid>
+      <description> MacのOSをアップデートしときに発生した事象. gitが使えなくなった コマンドライン Xcodeのアップデートが必要らしい
+エラーメッセージ
+xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun  対処
+xcode-select --install  Atom brew でgitをアップデートしてあげるといいらしい
+エラーメッセージ
+fatal: unable to find remote helper for &#39;https&#39;  対処
+brew install git  </description>
+    </item>
     
     <item>
       <title>さいしょのとうこう</title>
